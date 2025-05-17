@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple HTML, CSS, and JavaScript project">
+    <title>HTML, CSS, and JavaScript Project</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Linking CSS file -->
+</head>
+<body>
+    <h1 class="heading">Welcome to My Webpage</h1>
+    <p class="paragraph">This is a simple paragraph styled using CSS.</p>
+
+    <button onclick="showMessage()">Click Me</button>
+
+    <script>
+    console.onclick("JavaScript is loaded.");
+
+    function showMessage() {
+        alert("Button Clicked!");
+        console.log("Button function works.");
+    }
+</script>
+
+</body>
+</html>
