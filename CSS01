@@ -1,0 +1,11 @@
+.heading {
+    color: #4CAF50; /* Green color for the heading */
+    font-family: Arial, sans-serif;
+}
+
+/* Styling the paragraph */
+.paragraph {
+    font-size: 18px; /* Increased font size for the paragraph */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
