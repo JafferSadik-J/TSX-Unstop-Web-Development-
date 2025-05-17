@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Structured Webpage with Header, Navigation, and Main Section">
+    <title>Structured Webpage</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking CSS file -->
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>My Webpage</h1>
+        <nav>
+            <ul class="navbar">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+        <article>
+            <h2>Welcome to My Webpage</h2>
+            <p>This is a simple webpage with a structured layout. The header contains a navigation bar.</p>
+            <p>The main section contains an article with headings and paragraphs.</p>
+        </article>
+    </main>
+</body>
+</html>
